@@ -1,0 +1,7 @@
+# .Renviron.example
+OPENWEATHER_API_KEY=your_openweather_api_key_here
+SMTP_USER=your_email@gmail.com
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=465
+SMTP_SSL=TRUE
+SMTP_PASSWORD=your_email_app_password_here
